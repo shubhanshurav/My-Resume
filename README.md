@@ -1,3 +1,3 @@
 # My-Resume
 
-https://shubhanshu-rao-resume.netlify.app/
+https://shubhanshu-rao-resume.netlify.app/ 
